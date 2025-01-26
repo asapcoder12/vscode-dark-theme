@@ -4,12 +4,12 @@
 
 ### HTML
 
-![HTML screenshot](https://raw.githubusercontent.com/asapcoder12/vscode-dark-theme/main/dark-html.PNG)
+![HTML screenshot](https://raw.githubusercontent.com/asapcoder12/vscode-dark-theme/main/dark-html.png)
 
 ### CSS
 
-![Sass screenshot](https://raw.githubusercontent.com/asapcoder12/vscode-dark-theme/main/dark-css.PNG)
+![Sass screenshot](https://raw.githubusercontent.com/asapcoder12/vscode-dark-theme/main/dark-css.png)
 
 ### JavaScript
 
-![JavaScript screenshot](https://raw.githubusercontent.com/asapcoder12/vscode-dark-theme/main/dark-js.PNG)
+![JavaScript screenshot](https://raw.githubusercontent.com/asapcoder12/vscode-dark-theme/main/dark-js.png)
