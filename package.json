@@ -4,6 +4,7 @@
   "description": "Dark Theme by ASAP Coder",
   "version": "1.0.0",
   "publisher": "asapcoder",
+  "icon": "logo.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/asapcoder12/vscode-dark-theme"
