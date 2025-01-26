@@ -2,7 +2,17 @@
   "name": "dark-theme-by-asap-coder",
   "displayName": "Dark Theme by ASAP Coder",
   "description": "Dark Theme by ASAP Coder",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asapcoder12/vscode-dark-theme"
+  },
+  "keywords": [
+        "theme",
+        "dark theme",
+        "asapcoder"
+    ],
   "engines": {
     "vscode": "^1.96.0"
   },
