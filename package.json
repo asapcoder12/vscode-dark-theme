@@ -3,7 +3,7 @@
   "displayName": "Dark Theme by ASAP Coder",
   "description": "Dark Theme by ASAP Coder",
   "version": "1.0.0",
-  "publisher": "",
+  "publisher": "asapcoder",
   "repository": {
     "type": "git",
     "url": "https://github.com/asapcoder12/vscode-dark-theme"
