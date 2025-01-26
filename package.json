@@ -1,0 +1,21 @@
+{
+  "name": "dark-theme-by-asap-coder",
+  "displayName": "Dark Theme by ASAP Coder",
+  "description": "Dark Theme by ASAP Coder",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Theme by ASAP Coder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Theme by ASAP Coder-color-theme.json"
+      }
+    ]
+  }
+}

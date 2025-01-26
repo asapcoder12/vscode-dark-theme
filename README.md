@@ -1,1 +1,1 @@
-# vscode-dark-theme
+# VS Code Dark Theme by A$AP Coder
